@@ -54,10 +54,12 @@
 	height: 8vh;
 	border-radius: 5px;
 	padding: 0 10px;
+	width: 50%;
 }
 
 .user-message {
 	background-color: lightgreen;
+	margin-left: 50%;
 }
 
 .robot-message {
